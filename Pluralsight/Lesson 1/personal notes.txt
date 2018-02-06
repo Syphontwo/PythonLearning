@@ -1,3 +1,5 @@
 learn to use Python 3, small differences from Python 2
 
 Python doesn't use curly brace, instead uses spaces and indentation
+
+pycharm is a good ide, at jetbrains.com
